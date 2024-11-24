@@ -1,0 +1,48 @@
+# pylintrc
+
+[MASTER]
+# Set the maximum allowed line length
+max-line-length=120
+
+[MESSAGES CONTROL]
+# Disable specific messages or error codes
+disable=
+    C0114,  # Missing module docstring
+    C0115,  # Missing class docstring
+    C0116,
+    C0103,
+    C0301,
+    C0303,
+    C0302,
+    C0411,
+    C0413,
+    C0412,
+    C0414,
+    C0415,
+    W0614,
+    W0611,
+    W0613,
+    W0612,
+    W0614,
+    W0401,
+    R0903,
+    R0902,
+    R0913,
+    R0914,
+    R0915,
+    R0912,
+    R0911,
+    R0904,
+    R0801,
+
+[REPORTS]
+# Set the output format
+output-format=text
+
+[TYPECHECK]
+# Ignore import-related checks
+ignored-classes=models
+
+[EXCEPTIONS]
+# Ignore specific exceptions or error messages
+ignore=CVXError

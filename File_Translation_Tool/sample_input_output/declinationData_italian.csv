@@ -1,0 +1,15 @@
+###Com##########
+# Valori di declinazione
+###Com##########
+# 7 campi:
+# (1) data negli anni decimali
+# (2) latitudine in gradi decimali
+# (3) longitudine in gradi decimali
+# (4) Elevazione in KM GPS
+# (5) Declinazione in gradi decimali
+# (6) declinazione_sv in gradi decimali
+# (7) declinazione_uncerty in gradi decimali
+#
+# Modello magnetico: WMM-2020 (versione calcolatrice 0.5.1.11)
+###Com##########
+2023.04110 48.52650 15.20933 0,00000 4.83870 0.15373 0.37548

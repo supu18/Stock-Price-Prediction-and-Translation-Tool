@@ -1,0 +1,33 @@
+# .flake8
+
+[flake8]
+# Set maximum line length
+max-line-length = 120
+
+# Exclude directories or files from linting
+exclude =
+    .git,
+    __pycache__,
+    venv,
+    env,
+    ENV,
+    .vscode,
+    .idea,
+    images,
+    models,
+    results,
+    utils
+
+# Ignore specific errors or warnings
+ignore =
+    E203,
+    E501,
+    W503,
+    F403,
+    F405,
+    E128,
+    E402,
+    E731,
+    E741,
+    E722,
+    E126

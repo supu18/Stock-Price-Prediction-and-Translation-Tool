@@ -1,0 +1,39 @@
+project-root/
+    ├──
+    ├── .gitignore
+    ├── README.md
+    ├── folder_structure.txt
+    ├── LICENSE
+    File_Translation_Tool-/
+        │
+        ├── sample_input_output/
+        │   ├── (sample_input_output files)
+        ├── dockerfile
+        │   ├── (docker file)        
+        ├── translation.log
+        ├── requirements.txt
+        ├── readme.txt
+        ├── file_translation.py
+     stock_price_prediction-/
+        │
+        ├── images/
+        │   ├── (your visualization and graph files)
+        │
+        ├── models/
+        │   ├── (your machine learning model code)
+        │   ├── models.cpython-39.pyc
+        ├── dockerfile
+        │   ├── (docker file)
+        │
+        ├── utils/
+        │   ├── (utility functions used in the project)
+        │
+        ├── main.py
+        ├── requirements.txt
+    stock_price_prediction_notebook-/
+        │
+        ├── dockerfile
+        │   ├── (docker file)
+        │
+        ├── notebook jyupter
+        │   ├── (your notebook)

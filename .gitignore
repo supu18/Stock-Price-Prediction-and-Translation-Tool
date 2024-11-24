@@ -1,0 +1,42 @@
+# .gitignore
+
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+
+
+# Ignore other files or directories as needed
+
+# Ignore user-specific files
+*.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore logs and runtime data
+*.log
+*.pid
+*.pyz
+*.pyw
+*.pyz
+*.pyw
+
+# Ignore backup and temporary files
+*~
+*.bak
+*.swp
+*.tmp
+*.tmp.*
+log/
